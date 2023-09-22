@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZvczeW2UXu+l0x3N71eXFlULrqmUqIEOakB3nkrbApDkdH8LCuTYls1l5FUkRKlo2Sv7o+pvnzY70jJ3TwY1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaoc\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1) (2)\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\joaoc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\joaoc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\joaoc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
